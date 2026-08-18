@@ -59,7 +59,7 @@ python main.py
 ### 📸 실행 화면
 
 **메인 메뉴**  
-![메인 메뉴](docs/screenshots/menu.png)
+
 
 **퀴즈 풀기**  
 ![퀴즈 풀기](docs/screenshots/play.png)
